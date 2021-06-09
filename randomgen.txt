@@ -100,10 +100,10 @@ Rocket Launcher
 Mossberg-5000
 
 $All 1H
-[[Melee 1H]|[Handguns 1H]|[Machine Pistol 1H]|[Bows 1H]|[Shotguns 1H]]
+[Melee 1H]
 
 $All 2H
-[[Melee 2H]|[SMG 2H]|[Bows 2H]|[Shotguns 2H]|[Rifles 2H]|[Sniper Rifles 2H]|[Machine Gun 2H]|[Explosives 2H]]
+[Melee 2H]
 
 $>Full Wiggle
 <h3>This is a bog standard <b>Normal</b> Game! Play as you normally would!</h3>
@@ -119,6 +119,6 @@ $>Half Wiggle
 
 <h3>Time for a <b>Nuzlocke</b> Game!</h3><br><br>The first weapons you see you MUST use the whole game!
 
-<h3>Yar-haw! It's time for a <b>Pirates n' Cowboys</b> Game!</h3><br><br><b>One Handed</b>: [Old 1H] and [Old 1H]<br><b>Two Handed</b>: [Old 2H] and [Old 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
-
 <h3>Time for a normal <b>Loadoutinator</b> Game!</h3><br><br><b>One Handed</b>: [All 1H] and [All 1H]<br><b>Two Handed</b>: [All 2H] and [All 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]<br><br><b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 1H], [Special 2H]
+
+<h3>Yar-haw! It's time for a <b>Pirates n' Cowboys</b> Game!</h3><br><br><b>One Handed</b>: [Old 1H] and [Old 1H]<br><b>Two Handed</b>: [Old 2H] and [Old 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
