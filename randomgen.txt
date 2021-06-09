@@ -26,6 +26,82 @@ Jarl Axe
 Katana
 Ballistic Shield
 
+$Handguns 1H
+Berreta 93R
+Desert Eagle
+Flintlock
+G18c
+Luger-P08
+M1911
+Revolver
+Taser
+Auto Revolver
+Hand Cannon
+
+$Machine Pistol 1H
+Mac-10
+Tec-9
+
+$SMG 2H
+MP-40
+MP5-K
+P-90
+PPSH-41
+UMP-45
+Vector
+M1a1 Thompson
+
+$Bows 1H
+Crossbow Pistol
+Grappling Hook
+
+$Bows 2H
+Crossbow
+Automatic Crossbow
+Gaussbow
+
+$Shotguns 1H
+Double Barrel Shotgun
+The Arnold
+
+$Shotguns 2H
+AA-12
+Blunderbuss
+Mossberg-500
+
+$Rifles 2H
+AK-47
+AK-74U
+AUG
+Garand
+M14
+M16
+MP-44
+Musket
+SCAR-H
+Winchester
+H1
+S7
+
+$Sniper Rifles 2H
+AWP
+Barrett
+BEAM-Sniper
+Double Shot
+Kar98K
+VSS
+
+$Machine Gun 2H
+Browning M2
+M1918-BAR
+MG-42
+Minigun
+M8
+
+$Explosives 2H
+MGL
+Missile Launcher
+
 $Blessing
 Battlecry
 Bloodlust
@@ -100,10 +176,10 @@ Rocket Launcher
 Mossberg-5000
 
 $All 1H
-[Melee 1H]
+[[Melee 1H]|[Handguns 1H]|[Machine Pistol 1H]|[Bows 1H]|[Shotguns 1H]]
 
 $All 2H
-[Melee 2H]
+[[Melee 2H]|[SMG 2H]|[Bows 2H]|[Shotguns 2H]|[Rifles 2H]|[Sniper Rifles 2H]|[Machine Gun 2H]|[Explosives 2H]]
 
 $>Full Wiggle
 <h3>This is a bog standard <b>Normal</b> Game! Play as you normally would!</h3>
