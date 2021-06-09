@@ -16,6 +16,16 @@ Blunderbuss
 Musket
 Winchester
 
+$Melee 1H
+Rapier
+Sabre
+Viking Axe
+
+$Melee 2H
+Jarl Axe
+Katana
+Ballistic Shield
+
 $Blessing
 Battlecry
 Bloodlust
