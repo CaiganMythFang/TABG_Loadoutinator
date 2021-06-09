@@ -82,20 +82,11 @@ H1
 
 $Modern Tech 1H
 [Modern 1H]
-[Modern 1H]
-[Modern 1H]
-[Modern 1H]
-[Modern 1H]
-[Future 1H]
+[Future 1H] {20%}
 
 $Modern Tech 2H
 [Modern 2H]
-[Modern 2H]
-[Modern 2H]
-[Modern 2H]
-[Modern 2H]
-[Modern 2H]
-[Future 2H]
+[Future 2H] {20%}
 
 $Melee 1H
 Rapier
@@ -183,38 +174,6 @@ $Explosives 2H
 MGL
 Missile Launcher
 
-$Blessing
-Battlecry
-Bloodlust
-Cardio
-Charge
-Dash
-Healing Words
-Health
-Ice
-Jump
-Lit Beats
-Poison
-Recycling
-Regeneration
-Relax
-Shield
-Small
-Speed
-Spray
-Storm Call
-Storm
-Tactical Maneuver
-The Hunt
-Vampire
-Weapon Mastery
-Words of Justice
-Insight
-Assassin
-Mad Mechanic
-Pull
-Airstrike
-
 $Spells
 Spell - Track
 Spell - Reveal
@@ -224,6 +183,23 @@ Spell - Healing Aura
 Spell - Speed Aura
 Spell - Gravity Field
 Spell - Blinding Light
+
+$All 1H
+[Melee 1H]
+[Handguns 1H]
+[Machine Pistol 1H]
+[Bows 1H]
+[Shotguns 1H]
+
+$All 2H
+[Melee 2H]
+[Rifles 2H]
+[SMG 2H]
+[Bows 2H]
+[Shotguns 2H]
+[Sniper Rifles 2H]
+[Machine Gun 2H]
+[Explosives 2H]
 
 $Special 1H
 Hardballer
@@ -256,48 +232,43 @@ Shallow Pot with a Long Handle
 Rocket Launcher
 Mossberg-5000
 
+$Blessing
+Battlecry
+Bloodlust
+Cardio
+Charge
+Dash
+Healing Words
+Health
+Ice
+Jump
+Lit Beats
+Poison
+Recycling
+Regeneration
+Relax
+Shield
+Small
+Speed
+Spray
+Storm Call
+Storm
+Tactical Maneuver
+The Hunt
+Vampire
+Weapon Mastery
+Words of Justice
+Insight
+Assassin
+Mad Mechanic
+Pull
+Airstrike
+
 $All 1H
-[Melee 1H]
-[Handguns 1H]
-[Machine Pistol 1H]
-[Bows 1H]
-[Shotguns 1H]
-[Melee 1H]
-[Handguns 1H]
-[Machine Pistol 1H]
-[Bows 1H]
-[Shotguns 1H]
-[Melee 1H]
-[Handguns 1H]
-[Machine Pistol 1H]
-[Bows 1H]
-[Shotguns 1H]
+[[Melee 1H]|[Handguns 1H]|[Machine Pistol 1H]|[Bows 1H]|[Shotguns 1H]]
 
 $All 2H
-[Melee 2H]
-[SMG 2H]
-[Bows 2H]
-[Shotguns 2H]
-[Rifles 2H]
-[Sniper Rifles 2H]
-[Machine Gun 2H]
-[Explosives 2H]
-[Melee 2H]
-[SMG 2H]
-[Bows 2H]
-[Shotguns 2H]
-[Rifles 2H]
-[Sniper Rifles 2H]
-[Machine Gun 2H]
-[Explosives 2H]
-[Melee 2H]
-[SMG 2H]
-[Bows 2H]
-[Shotguns 2H]
-[Rifles 2H]
-[Sniper Rifles 2H]
-[Machine Gun 2H]
-[Explosives 2H]
+[[Melee 2H]|[SMG 2H]|[Bows 2H]|[Shotguns 2H]|[Rifles 2H]|[Sniper Rifles 2H]|[Machine Gun 2H]|[Explosives 2H]]
 
 $>Full Wiggle
 <h3>This is a bog standard <b>Normal</b> Game! Play as you normally would!</h3>
@@ -314,9 +285,27 @@ $>Full Wiggle
 
 <h3>Sharpen your blades, we're going <b>Melee Only</b>!</h3><br><br><b>Slot 1</b>: [[[Melee 1H] and [Melee 1H]|[Melee 1H]|[Melee 2H]]]<br><b>Slot 2</b>: [[[Melee 1H] and [Melee 1H]|[Melee 1H]|[Melee 2H]]]<br><b>Slot 3</b>: [Melee 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
 
-<h3>Release the doves, its a <b>Dualies Only</b> Game!</h3><br><br><b>Slot 1</b>: Two [All 1H]'s<br><b>Slot 2</b>: Two [All 1H]'s<br><b>Slot 3</b>: [Melee 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]<br><br><b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 1H], [Special 1H]
+<h3>Release the doves, its a <b>Dualies Only</b> Game!</h3><br><br><b>Slot 1</b>: [All 1H,#slot1] and [#slot1]<br><b>Slot 2</b>: [All 1H,#slot2] and [#slot2]<br><b>Slot 3</b>: [All 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]<br><br><b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 1H], [Special 1H]
+
+<h3>Will you be long? Yes, its a <b>Two Handed Only</b> Game!</h3><br><br><b>Slot 1</b>: [All 2H]<br><b>Slot 2</b>: [All 2H]<br><b>Slot 3</b>: [All 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]<br><br><b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 2H], [Special 2H]
+
+<h3>Throw em a curveball! It's a <b>Grenade Only</b> Game!</h3><br><br>Blessings</b>: [Blessing], [Blessing], [Blessing]<b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] Airstrike Blessing
+
+<h3>This. Is. My. Boomstick! <b>Shotguns Only</b> Time!</h3><br><br><b>Slot 1</b>: [[[Shotguns 1H] and [Shotguns 1H]|[Shotguns 2H]]]<br><b>Slot 2</b>: [[[Shotguns 1H] and [Shotguns 1H]|[Shotguns 2H]]]<br><b>Slot 3</b>: [Shotguns 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
 
 <h3>Make sure your brace of pistols is loaded, its <b>Handguns Only</b> Time!</h3><br><br><b>Slot 1</b>: [Handguns 1H] and [Handguns 1H]<br><b>Slot 2</b>: [Handguns 1H] and [Handguns 1H]<br><b>Slot 3</b>: [Handguns 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
+
+<h3>Cock the string and nock a bolt, its <b>Crossbows Only</b> Time!</h3><br><br><b>Slot 1</b>: [[[Crossbows 1H] and [Crossbows 1H]|[Crossbows 2H]]]<br><b>Slot 2</b>: [[[Crossbows 1H] and [Crossbows 1H]|[Crossbows 2H]]]<br><b>Slot 3</b>: [Crossbows 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
+
+<h3>This is your <b>Rifle Only</b>Game. There are many like it, but this one is yours!</h3><br><br><b>Slot 1</b>: [Rifles 2H]<br><b>Slot 2</b>: [Rifles 2H]<br><b>Slot 3</b>: [All 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
+
+<h3>It costs four hundred thousand dollars to run this <b>Machine Guns Only</b> Game.</h3><br><br><b>Slot 1</b>: [Machine Gun 2H]<br><b>Slot 2</b>: [Machine Gun 2H]<br><b>Slot 3</b>: [All 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
+
+<h3>Don't gotta aim if you can fill the air with bullets, its <b>Machine Pistol/SMG</b> Time!</h3><br><br><b>Slot 1</b>: [[[Machine Pistol 1H] and [Machine Pistol 1H]|[SMG 2H]]]<br><b>Slot 2</b>: [[[Machine Pistol 1H] and [Machine Pistol 1H]|[SMG 2H]]]<br><b>Slot 3</b>: [Machine Pistol 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
+
+<h3>Boom! Boom! Boom! <b>Explosives Only</b> Game! Boom!</h3><br><br><b>Slot 1</b>: [Explosives 2H]<br><b>Slot 2</b>: [Explosives 2H]<br><b>Slot 3</b>: [All 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
+
+<h3>Aim for the head, its a <b>Snipers Only</b> Game! Boom, Headshot!</h3><br><br><b>Slot 1</b>: [Sniper Rifles 2H]<br><b>Slot 2</b>: [Sniper Rifles 2H]<br><b>Slot 3</b>: [All 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
 
 $>Half Wiggle
 <h3>This is a bog standard <b>Normal</b> Game!</h3><br><br>Play as you normally would!
@@ -333,6 +322,22 @@ $>Half Wiggle
 
 <h3>Sharpen your blades, we're going <b>Melee Only</b>!</h3><br><br><b>One Handed</b>: [Melee 1H] and [Melee 1H]<br><b>Two Handed</b>: [Melee 2H] and [Melee 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
 
-<h3>Release the doves, its a <b>Dualies Only</b> Game! You must dual wield matching weapons!</h3><br><br><b>One Handed</b>: [All 1H], [All 1H] and [All 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]<br><br><b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 1H], [Special 1H]
+<h3>Release the doves, its a <b>Dualies Only</b> Game!</h3><br><br><b>One Handed</b>: [All 1H] and [All 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]<br><br><b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 1H], [Special 1H]
+
+<h3>Will you be long? Yes, its a <b>Two Handed Only</b> Game!</h3><br><br><b>One Handed</b>: [All 1H] (sidearm)<br><b>Two Handed</b>: [All 2H] and [All 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]<br><br><b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 2H], [Special 2H]
+
+<h3>Throw em a curveball! It's a <b>Grenade Only</b> Game!</h3><br><br>Blessings</b>: [Blessing], [Blessing], [Blessing]<b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] Airstrike Blessing
+
+<h3>This. Is. My. Boomstick! <b>Shotguns Only</b> Time!</h3><br><br><b>One Handed</b>: [Shotguns 1H] and [Shotguns 1H]<br><b>Two Handed</b>: [Shotguns 2H] and [Shotguns 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
 
 <h3>Make sure your brace of pistols is loaded, its <b>Handguns Only</b> Time!</h3><br><br><b>One Handed</b>: [Handguns 1H], [Handguns 1H], and [Handguns 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
+
+<h3>Cock the string and nock a bolt, its <b>Crossbows Only</b> Time!</h3><br><br><b>One Handed</b>: [Crossbows 1H] and [Crossbows 1H]<br><b>Two Handed</b>: [Crossbows 2H] and [Crossbows 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
+
+<h3>It costs four hundred thousand dollars to run this <b>Machine Guns Only</b> Game.</h3><br><br><b>Two Handed</b>: [Machine Gun 2H] and [Machine Gun 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
+
+<h3>Don't gotta aim if you can fill the air with bullets, its <b>Machine Pistol/SMG</b> Time!</h3><br><br><b>One Handed</b>: [Machine Pistol 1H] and [Machine Pistol 1H]<br><b>Two Handed</b>: [SMG 2H] and [SMG 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
+
+<h3>Boom! Boom! Boom! <b>Explosives Only</b> Game! Boom!</h3><br><br><b>Two Handed</b>: [Explosives 2H] and [Explosives 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
+
+<h3>Aim for the head, its a <b>Snipers Only</b> Game! Boom, Headshot!</h3><br><br><b>Two Handed</b>: [Sniper Rifles 2H] and [Sniper Rifles 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
