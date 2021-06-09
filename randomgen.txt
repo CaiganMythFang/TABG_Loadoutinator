@@ -5,6 +5,18 @@ $picture : https://i.imgur.com/hVEd5ck.png
 $button : Loadoutinator Me!
 $allow duplicates
 
+$Medieval 1H
+Rapier
+Viking Axe
+Crossbow Pistol
+
+$Medieval 2H
+Katana
+Jarl Axe
+Crossbow
+Automatic Crossbow
+[Balloon Crossbow|Fireworks Crossbow]
+
 $Old 1H
 Flintlock
 Revolver
@@ -15,6 +27,66 @@ $Old 2H
 Blunderbuss
 Musket
 Winchester
+
+$World War 1H
+Double Barrel Shotgun
+Luger-P08
+M1911
+
+$World War 2H
+Browning M2
+Garand
+Kar98K
+M1918-BAR
+M1a1 Thompson
+MG-42
+MP-40
+MP-44
+PPSH-41
+
+$Modern 1H
+Berreta 93R
+Desert Eagle
+G18c
+Minigun
+The Arnold
+
+$Modern 2H
+AA-12
+AK-47
+AK-74U
+AUG
+M14
+M16
+MGL
+Mossberg-500
+MP5-K
+P-90
+Rocket Launcher
+SCAR-H
+Taser
+Tec-9
+UMP-45
+Vector
+VSS
+Ballistic Shield
+
+$Future 1H
+Auto Revolver
+
+$Future 2H
+BEAM-Sniper
+Double Shot
+Gaussbow
+H1
+
+$Modern Tech 1H
+[Modern 1H]
+[Future 1H] {20%}
+
+$Modern Tech 2H
+[Modern 2H]
+[Future 2H] {20%}
 
 $Melee 1H
 Rapier
