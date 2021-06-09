@@ -326,7 +326,7 @@ $>Full Wiggle
 
 <h3>Cock the string and nock a bolt, its <b>Crossbows Only</b> Time!</h3><br><br><b>Slot 1</b>: [[[Crossbows 1H] and [Crossbows 1H]|[Crossbows 2H]]]<br><b>Slot 2</b>: [[[Crossbows 1H] and [Crossbows 1H]|[Crossbows 2H]]]<br><b>Slot 3</b>: [Crossbows 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
 
-<h3>This is your <b>Rifle Only</b>Game. There are many like it, but this one is yours!</h3><br><br><b>Slot 1</b>: [Rifles 2H]<br><b>Slot 2</b>: [Rifles 2H]<br><b>Slot 3</b>: [All 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
+<h3>This is your <b>Rifle Only</b> Game. There are many like it, but this one is yours!</h3><br><br><b>Slot 1</b>: [Rifles 2H]<br><b>Slot 2</b>: [Rifles 2H]<br><b>Slot 3</b>: [All 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
 
 $>Half Wiggle
 <h3>This is a bog standard <b>Normal</b> Game!</h3><br><br>Play as you normally would!
@@ -353,6 +353,6 @@ $>Half Wiggle
 
 <h3>Cock the string and nock a bolt, its <b>Crossbows Only</b> Time!</h3><br><br><b>One Handed</b>: [Crossbows 1H] and [Crossbows 1H]<br><b>Two Handed</b>: [Crossbows 2H] and [Crossbows 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
 
-<h3>This is your <b>Rifle Only</b>Game. There are many like it, but this one is yours!</h3><br><br><b>One Handed</b>: [Rifles 1H] and [Rifles 1H]<br><b>Two Handed</b>: [Rifles 2H] and [Rifles 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
+<h3>This is your <b>Rifle Only</b> Game. There are many like it, but this one is yours!</h3><br><br><b>One Handed</b>: [Rifles 1H] and [Rifles 1H]<br><b>Two Handed</b>: [Rifles 2H] and [Rifles 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
 
 <h3>Make sure your brace of pistols is loaded, its <b>Handguns Only</b> Time!</h3><br><br><b>One Handed</b>: [Handguns 1H], [Handguns 1H], and [Handguns 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
