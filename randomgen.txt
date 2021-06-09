@@ -1,6 +1,6 @@
 $name : TABG Loadoutinator
 $author : Caigan
-$description : Want a challenge or just unsure of what to aim for in TABG? Try this!
+$description : Want a challenge or just unsure of what to aim for in TABG? Try this!<br><br><b>ROOT DESCRIPTIONS</b><br><b>Half Wiggle</b>:Chooses two or three weapons per size.<br><b>Full Wiggle</b>: Chooses a weapon for every slot<br><br>Greasemonkey/Tampermonkey script maybe soon!
 $picture : https://i.imgur.com/hVEd5ck.png
 $button : Loadoutinator Me!
 $allow duplicates
