@@ -318,7 +318,7 @@ $>Full Wiggle
 
 <h3>Will you be long? Yes, its a <b>Two Handed Only</b> Game!</h3><br><br><b>Slot 1</b>: [All 2H]<br><b>Slot 2</b>: [All 2H]<br><b>Slot 3</b>: [All 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]<br><br><b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 2H], [Special 2H]
 
-<h3>Throw em a curveball! It's a <b>Grenade Only</b> Game!</h3><br><br>Blessings</b>: [Blessing], [Blessing], [Blessing]<b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] Airstrike Blessing
+<h3>Throw em a curveball! It's a <b>Grenade Only</b> Game!</h3><br><br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]<br>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] Airstrike Blessing
 
 <h3>This. Is. My. Boomstick! <b>Shotguns Only</b> Time!</h3><br><br><b>Slot 1</b>: [[[Shotguns 1H] and [Shotguns 1H]|[Shotguns 2H]]]<br><b>Slot 2</b>: [[[Shotguns 1H] and [Shotguns 1H]|[Shotguns 2H]]]<br><b>Slot 3</b>: [Shotguns 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
 
@@ -341,6 +341,6 @@ $>Half Wiggle
 
 <h3>Will you be long? Yes, its a <b>Two Handed Only</b> Game!</h3><br><br><b>One Handed</b>: [All 1H] (sidearm)<br><b>Two Handed</b>: [All 2H] and [All 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]<br><br><b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 2H], [Special 2H]
 
-<h3>Throw em a curveball! It's a <b>Grenade Only</b> Game!</h3><br><br>Blessings</b>: [Blessing], [Blessing], [Blessing]<b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] Airstrike Blessing
+<h3>Throw em a curveball! It's a <b>Grenade Only</b> Game!</h3><br><br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]<br><br>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] Airstrike Blessing
 
 <h3>This. Is. My. Boomstick! <b>Shotguns Only</b> Time!</h3><br><br><b>One Handed</b>: [Shotguns 1H] and [Shotguns 1H]<br><b>Two Handed</b>: [Shotguns 2H] and [Shotguns 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
