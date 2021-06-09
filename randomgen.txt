@@ -316,7 +316,11 @@ $>Full Wiggle
 
 <h3>Release the doves, its a <b>Dualies Only</b> Game!</h3><br><br><b>Slot 1</b>: Two [All 1H]'s<br><b>Slot 2</b>: Two [All 1H]'s<br><b>Slot 3</b>: [Melee 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]<br><br><b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 1H], [Special 1H]
 
-<h3>Make sure your brace of pistols is loaded, its <b>Handguns Only</b> Time!</h3><br><br><b>Slot 1</b>: [Handguns 1H] and [Handguns 1H]<br><b>Slot 2</b>: [Handguns 1H] and [Handguns 1H]<br><b>Slot 3</b>: [Handguns 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
+<h3>Will you be long? Yes, its a <b>Two Handed Only</b> Game!</h3><br><br><b>Slot 1</b>: [All 2H]<br><b>Slot 2</b>: [All 2H]<br><b>Slot 3</b>: [All 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]<br><br><b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 2H], [Special 2H]
+
+<h3>Throw em a curveball! It's a <b>Grenade Only</b> Game!</h3><br><br>Blessings</b>: [Blessing], [Blessing], [Blessing]<b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] Airstrike Blessing
+
+<h3>This. Is. My. Boomstick! <b>Shotguns Only</b> Time!</h3><br><br><b>Slot 1</b>: [[[Shotguns 1H] and [Shotguns 1H]|[Shotguns 2H]]]<br><b>Slot 2</b>: [[[Shotguns 1H] and [Shotguns 1H]|[Shotguns 2H]]]<br><b>Slot 3</b>: [Shotguns 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
 
 $>Half Wiggle
 <h3>This is a bog standard <b>Normal</b> Game!</h3><br><br>Play as you normally would!
@@ -335,4 +339,8 @@ $>Half Wiggle
 
 <h3>Release the doves, its a <b>Dualies Only</b> Game! You must dual wield matching weapons!</h3><br><br><b>One Handed</b>: [All 1H], [All 1H] and [All 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]<br><br><b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 1H], [Special 1H]
 
-<h3>Make sure your brace of pistols is loaded, its <b>Handguns Only</b> Time!</h3><br><br><b>One Handed</b>: [Handguns 1H], [Handguns 1H], and [Handguns 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
+<h3>Will you be long? Yes, its a <b>Two Handed Only</b> Game!</h3><br><br><b>One Handed</b>: [All 1H] (sidearm)<br><b>Two Handed</b>: [All 2H] and [All 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]<br><br><b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 2H], [Special 2H]
+
+<h3>Throw em a curveball! It's a <b>Grenade Only</b> Game!</h3><br><br>Blessings</b>: [Blessing], [Blessing], [Blessing]<b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] Airstrike Blessing
+
+<h3>This. Is. My. Boomstick! <b>Shotguns Only</b> Time!</h3><br><br><b>One Handed</b>: [Shotguns 1H] and [Shotguns 1H]<br><b>Two Handed</b>: [Shotguns 2H] and [Shotguns 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
