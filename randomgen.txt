@@ -110,11 +110,9 @@ Taser
 Auto Revolver
 Hand Cannon
 
-
 $Machine Pistol 1H
 Mac-10
 Tec-9
-
 
 $SMG 2H
 MP-40
@@ -165,14 +163,12 @@ Double Shot
 Kar98K
 VSS
 
-
 $Machine Gun 2H
 Browning M2
 M1918-BAR
 MG-42
 Minigun
 M8
-
 
 $Explosives 2H
 MGL
@@ -274,7 +270,7 @@ $All 1H
 $All 2H
 [[Melee 2H]|[SMG 2H]|[Bows 2H]|[Shotguns 2H]|[Rifles 2H]|[Sniper Rifles 2H]|[Machine Gun 2H]|[Explosives 2H]]
 
-$>Full Wiggle (slot specific)
+$>Full Wiggle
 <h3>This is a bog standard <b>Normal</b> Game! Play as you normally would!</h3>
 
 <h3>Time for a <b>Nuzlocke</b> Game!</h3><br><br>The first weapons you see you MUST use the whole game!
@@ -311,9 +307,7 @@ $>Full Wiggle (slot specific)
 
 <h3>Aim for the head, its a <b>Snipers Only</b> Game! Boom, Headshot!</h3><br><br><b>Slot 1</b>: [Sniper Rifles 2H]<br><b>Slot 2</b>: [Sniper Rifles 2H]<br><b>Slot 3</b>: [All 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
 
-
-
-$>Half Wiggle (weapon choice)
+$>Half Wiggle
 <h3>This is a bog standard <b>Normal</b> Game!</h3><br><br>Play as you normally would!
 
 <h3>Time for a <b>Nuzlocke</b> Game!</h3><br><br>The first weapons you see you MUST use the whole game!
@@ -347,4 +341,3 @@ $>Half Wiggle (weapon choice)
 <h3>Boom! Boom! Boom! <b>Explosives Only</b> Game! Boom!</h3><br><br><b>Two Handed</b>: [Explosives 2H] and [Explosives 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
 
 <h3>Aim for the head, its a <b>Snipers Only</b> Game! Boom, Headshot!</h3><br><br><b>Two Handed</b>: [Sniper Rifles 2H] and [Sniper Rifles 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
-
