@@ -82,11 +82,11 @@ H1
 
 $Modern Tech 1H
 [Modern 1H]
-[Future 1H] {20%}
+[Future 1H]
 
 $Modern Tech 2H
 [Modern 2H]
-[Future 2H] {20%}
+[Future 2H]
 
 $Melee 1H
 Rapier
