@@ -312,6 +312,12 @@ $>Full Wiggle
 
 <h3>Load your quiver, its a <b>Medieval</b> Game!</h3><br><br><b>Slot 1</b>: [[[Medieval 1H] and [Medieval 1H]|[Medieval 2H]]]<br><b>Slot 2</b>: [[[Medeival 1H] and [Medeival 1H]|[Medeival 2H]]]<br><b>Slot 3</b>: [Medeival 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
 
+<h3>Sharpen your blades, we're going <b>Melee Only</b>!</h3><br><br><b>Slot 1</b>: [[[Melee 1H] and [Melee 1H]|[Melee 1H]|[Melee 2H]]]<br><b>Slot 2</b>: [[[Melee 1H] and [Melee 1H]|[Melee 1H]|[Melee 2H]]]<br><b>Slot 3</b>: [Melee 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
+
+<h3>Release the doves, its a <b>Dualies Only</b> Game!</h3><br><br><b>Slot 1</b>: [All 1H,#slot1] and [#slot1]<br><b>Slot 2</b>: [All 1H,#slot2] and [#slot2]<br><b>Slot 3</b>: [All 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]<br><br><b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 1H], [Special 1H]
+
+<h3>Will you be long? Yes, its a <b>Two Handed Only</b> Game!</h3><br><br><b>Slot 1</b>: [All 2H]<br><b>Slot 2</b>: [All 2H]<br><b>Slot 3</b>: [All 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]<br><br><b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 2H], [Special 2H]
+
 $>Half Wiggle
 <h3>This is a bog standard <b>Normal</b> Game!</h3><br><br>Play as you normally would!
 
@@ -324,3 +330,9 @@ $>Half Wiggle
 <h3>Lock and Load! It's time for a <b>Modern Tech</b> Game!</h3><br><br><b>One Handed</b>: [Modern Tech 1H] and [Modern Tech 1H]<br><b>Two Handed</b>: [Modern Tech 2H] and [Modern Tech 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
 
 <h3>Load your quiver, its a <b>Medieval</b> Game!</h3><br><br><b>One Handed</b>: [Medieval 1H] and [Medieval 1H]<br><b>Two Handed</b>: [Medieval 2H] and [Medieval 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
+
+<h3>Sharpen your blades, we're going <b>Melee Only</b>!</h3><br><br><b>One Handed</b>: [Melee 1H] and [Melee 1H]<br><b>Two Handed</b>: [Melee 2H] and [Melee 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
+
+<h3>Release the doves, its a <b>Dualies Only</b> Game!</h3><br><br><b>One Handed</b>: [All 1H] and [All 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]<br><br><b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 1H], [Special 1H]
+
+<h3>Will you be long? Yes, its a <b>Two Handed Only</b> Game!</h3><br><br><b>One Handed</b>: [All 1H] (sidearm)<br><b>Two Handed</b>: [All 2H] and [All 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]<br><br><b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 2H], [Special 2H]
