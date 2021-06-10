@@ -1,6 +1,6 @@
 $name : TABG Loadoutinator
 $author : Caigan
-$description : Want a challenge or just unsure of what to aim for in TABG? Try this!<br><br><b>ROOT DESCRIPTIONS</b><br><b>Half Wiggle</b>:Chooses two or three weapons per size.<br><b>Full Wiggle</b>: Chooses a weapon for every slot<br><br>Greasemonkey/Tampermonkey script maybe soon!
+$description : Want a challenge or just unsure of what to aim for in TABG? Try this!<br><br>Hit the button to get a random loadout for your next game.<br><br><b>ROOT DESCRIPTIONS</b><br><b>Half Wiggle</b>:Chooses two or three weapons for each weapon size.<br><b>Full Wiggle</b>: Chooses a weapon for every slot<br><br>Some weapons are very rare, or only show up in specific special game modes.
 $picture : https://i.imgur.com/hVEd5ck.png
 $button : Loadoutinator Me!
 $allow duplicates
