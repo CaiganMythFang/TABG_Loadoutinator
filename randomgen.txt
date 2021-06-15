@@ -15,7 +15,7 @@ Katana
 Jarl Axe
 Basic Crossbow
 Automatic Crossbow
-[Balloon Crossbow|Fireworks Crossbow]
+[Balloon Crossbow|Firework Crossbow]
 
 $OLD 1H
 Flintlock
