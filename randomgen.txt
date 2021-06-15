@@ -29,7 +29,7 @@ Musket
 Winchester
 
 $World War 1H
-Double Barrel Shotgun
+Sawed-Off Shotgun
 Luger-P08
 M1911
 
@@ -142,7 +142,7 @@ Automatic Crossbow
 Gaussbow
 
 $SHOTGUNS 1H
-Double Barrel Shotgun
+Sawed-Off Shotgun
 The Arnold
 
 $SHOTGUNS 2H
