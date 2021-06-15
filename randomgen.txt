@@ -191,7 +191,7 @@ Charge
 Dash
 Healing Words
 Health
-Ice
+Normal Ice
 Jump
 Lit Beats
 Poison
