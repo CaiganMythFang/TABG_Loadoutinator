@@ -198,7 +198,7 @@ Poison
 Recycling
 Regeneration
 Relax
-Shield
+Shield Blessing
 Small
 Speed
 Spray
