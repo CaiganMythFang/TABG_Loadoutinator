@@ -60,7 +60,7 @@ Normal M16
 MGL
 Mossberg-500
 MP5-K
-P-90
+P90
 Rocket Launcher
 SCAR-H
 Normal Taser
@@ -126,7 +126,7 @@ Tec-9
 $SMG 2H
 MP-40
 MP5-K
-P-90
+P90
 PPSH-41
 UMP-45
 Vector
