@@ -246,8 +246,8 @@ Rainmaker
 Really Big Barret
 Really Big Deagle
 Sniper Shotgun..?
-[Taser Crossbow|Taser Minigun|Taser Mossberg]
-[Taser Crossbow|Taser Minigun|Taser Mossberg]
+[Taser Crossbow|Taser Minigun|Taser Mossberg|Taser AWP]
+[Taser Crossbow|Taser Minigun|Taser Mossberg|Taser AWP]
 The Promise
 Two Shot
 Water Gun
