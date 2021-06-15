@@ -316,17 +316,17 @@ $>Full Wiggle
 
 <h3>Release the doves, its a <b>Dualies Only</b> Game!</h3><br><b>[ ]Slot 1</b> : Two [ALL 1H]'s<br><b>[ ]Slot 2</b> : Two [ALL 1H]'s<br><b>[ ]Slot 3</b> : [MELEE 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]<br><br><b>[ ]ULTIMATE WEAPONS</b> : (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 1H], [Special 1H]
 
-<h3>Will you be long? Yes, its a <b>Two Handed Only</b> Game!</h3><br><b>[ ]Slot 1</b> : [ALL 2H]<br><b>[ ]Slot 2</b> : [ALL 2H]<br><b>[ ]Slot 3</b> : [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]<br><br><b>[ ]ULTIMATE WEAPONS</b> : (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 2H], [Special 2H]
+<h3>Will you be long? Yes, its a <b>Two-Handed Only</b> Game!</h3><br><b>[ ]Slot 1</b> : [ALL 2H]<br><b>[ ]Slot 2</b> : [ALL 2H]<br><b>[ ]Slot 3</b> : [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]<br><br><b>[ ]ULTIMATE WEAPONS</b> : (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 2H], [Special 2H]
 
 <h3>Throw em a curveball! It's a <b>Grenade Only</b> Game!</h3><br><b> BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]<br>ULTIMATE WEAPONS</b> : (if found, you must use at least one!)<br>[ ] [ ] [ ] AIRSTRIKE
 
 <h3>This. Is. My. Boomstick! <b>Shotguns Only</b> Time!</h3><br><b>[ ]Slot 1</b> : [[[SHOTGUNS 1H] and [SHOTGUNS 1H]|[SHOTGUNS 2H]]]<br><b>[ ]Slot 2</b> : [[[SHOTGUNS 1H] and [SHOTGUNS 1H]|[SHOTGUNS 2H]]]<br><b>[ ]Slot 3</b> : [SHOTGUNS 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
 
-<h3>Make sure your brace of pistols is loaded, its <b>Handguns Only</b> Time!</h3><br><b>[ ]Slot 1</b> : [HANDGUNS 1H] and [HANDGUNS 1H]<br><b>[ ]Slot 2</b> : [HANDGUNS 1H] and [HANDGUNS 1H]<br><b>[ ]Slot 3</b> : [HANDGUNS 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
+<h3>Make sure your brace of pistols is loaded, its <br><b>Handguns Only</b> Time!</h3><br><b>[ ]Slot 1</b> : [HANDGUNS 1H] and [HANDGUNS 1H]<br><b>[ ]Slot 2</b> : [HANDGUNS 1H] and [HANDGUNS 1H]<br><b>[ ]Slot 3</b> : [HANDGUNS 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
 
-<h3>Cock the string and nock a bolt, its <b>Crossbows Only</b> Time!</h3><br><b>[ ]Slot 1</b> : [[[BOWS 1H] and [BOWS 1H]|[BOWS 2H]]]<br><b>[ ]Slot 2</b> : [[[BOWS 1H] and [BOWS 1H]|[BOWS 2H]]]<br><b>[ ]Slot 3</b> : [BOWS 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
+<h3>Cock the string and nock a bolt, its <b>Crossbows</b><br><b>Only</b> Time!</h3><br><b>[ ]Slot 1</b> : [[[BOWS 1H] and [BOWS 1H]|[BOWS 2H]]]<br><b>[ ]Slot 2</b> : [[[BOWS 1H] and [BOWS 1H]|[BOWS 2H]]]<br><b>[ ]Slot 3</b> : [BOWS 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
 
-<h3>This is your <b>Rifle Only</b> Game. There are many like it, but this one is yours!</h3><br><b>[ ]Slot 1</b> : [RIFLES 2H]<br><b>[ ]Slot 2</b> : [RIFLES 2H]<br><b>[ ]Slot 3</b> : [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
+<h3>This is your <b>Rifle Only</b> Game. There are many like it,<br> but this one is yours!</h3><br><b>[ ]Slot 1</b> : [RIFLES 2H]<br><b>[ ]Slot 2</b> : [RIFLES 2H]<br><b>[ ]Slot 3</b> : [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
 
 <h3>It costs four hundred thousand dollars to run this <b>Machine Guns Only</b> Game.</h3><br><b>[ ]Slot 1</b> : [MACHINE GUN 2H]<br><b>[ ]Slot 2</b> : [MACHINE GUN 2H]<br><b>[ ]Slot 3</b> : [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
 
@@ -351,19 +351,19 @@ $>Half Wiggle
 
 <h3>Sharpen your blades, we're going <b>Melee Only</b>!</h3><br><b>[ ]One Handed</b> : [MELEE 1H] | [MELEE 1H]<br><b>[ ]Two Handed</b> : [MELEE 2H] | [MELEE 2H]<br><b>[ ]Allowed Sidearms</b> : [ALL 1H] | [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
 
-<h3>Release the doves, its a <b>Dualies Only</b> Game! You must dual wield matching weapons!</h3><br><b>[ ]One Handed</b> : [ALL 1H] | [ALL 1H] | [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]<br><br><b>[ ]ULTIMATE WEAPONS</b> : [Special 1H] | [Special 1H]
+<h3>Release the doves, its a <b>Dualies Only</b> Game!<br>Dual Weapons must match!</h3><br><b>[ ]One Handed</b> : [ALL 1H] | [ALL 1H] | [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]<br><br><b>[ ]ULTIMATE WEAPONS</b> : [Special 1H] | [Special 1H]
 
-<h3>Will you be long? Yes, its a <b>Two Handed Only</b> Game!</h3><br><b>[ ]Two Handed</b> : [ALL 2H] and [ALL 2H]<br><b>[ ]Allowed Sidearms</b> : [ALL 1H] | [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]<br><br><b>[ ]ULTIMATE WEAPONS</b> : [Special 2H] | [Special 2H]
+<h3>Will you be long? Yes, its a <b>Two-Handed Only</b> Game!</h3><br><b>[ ]Two Handed</b> : [ALL 2H] and [ALL 2H]<br><b>[ ]Allowed Sidearms</b> : [ALL 1H] | [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]<br><br><b>[ ]ULTIMATE WEAPONS</b> : [Special 2H] | [Special 2H]
 
 <h3>Throw em a curveball! It's a <b>Grenade Only</b> Game!</h3><br><b> BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]<br><br>ULTIMATE WEAPONS</b> : AIRSTRIKE
 
 <h3>This. Is. My. Boomstick! <b>Shotguns Only</b> Time!</h3><br><b>[ ]One Handed</b> : [SHOTGUNS 1H] | [SHOTGUNS 1H]<br><b>[ ]Two Handed</b> : [SHOTGUNS 2H] | [SHOTGUNS 2H]<br><b>[ ]Allowed Sidearms</b> : [ALL 1H] | [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
 
-<h3>Make sure your brace of pistols is loaded, its <b>Handguns Only</b> Time!</h3><br><b>[ ]One Handed</b> : [HANDGUNS 1H] | [HANDGUNS 1H] | [HANDGUNS 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
+<h3>Make sure your brace of pistols is loaded, its <br><b>Handguns Only</b> Time!</h3><br><b>[ ]One Handed</b> : [HANDGUNS 1H] | [HANDGUNS 1H] | [HANDGUNS 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
 
-<h3>Cock the string and nock a bolt, its <b>Crossbows Only</b> Time!</h3><br><b>[ ]One Handed</b> : [BOWS 1H] | [BOWS 1H]<br><b>[ ]Two Handed</b> : [BOWS 2H] | [BOWS 2H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
+<h3>Cock the string and nock a bolt, its <b>Crossbows</b><br><b>Only</b> Time!</h3><br><b>[ ]One Handed</b> : [BOWS 1H] | [BOWS 1H]<br><b>[ ]Two Handed</b> : [BOWS 2H] | [BOWS 2H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
 
-<h3>This is your <b>Rifle Only</b> Game. There are many like it, but this one is yours!</h3><br><b>[ ]Two Handed</b> : [RIFLES 2H] | [RIFLES 2H]<br><b>[ ]Allowed Sidearms</b> : [ALL 1H] | [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
+<h3>This is your <b>Rifle Only</b> Game. There are many like it,<br> but this one is yours!</h3><br><b>[ ]Two Handed</b> : [RIFLES 2H] | [RIFLES 2H]<br><b>[ ]Allowed Sidearms</b> : [ALL 1H] | [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
 
 <h3>It costs four hundred thousand dollars to run this <b>Machine Guns Only</b> Game.</h3><br><b>[ ]Two Handed</b> : [MACHINE GUN 2H] | [MACHINE GUN 2H]<br><b>[ ]Allowed Sidearms</b> : [ALL 1H] | [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
 
