@@ -328,7 +328,7 @@ $>Full Wiggle
 
 <h3>This is your <b>Rifle Only</b> Game. There are many like it,<br> but this one is yours!</h3><br><b>[ ]Slot 1</b> : [RIFLES 2H]<br><b>[ ]Slot 2</b> : [RIFLES 2H]<br><b>[ ]Slot 3</b> : [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
 
-<h3>It costs four hundred thousand dollars to run this <b>Machine Guns Only</b> Game.</h3><br><b>[ ]Slot 1</b> : [MACHINE GUN 2H]<br><b>[ ]Slot 2</b> : [MACHINE GUN 2H]<br><b>[ ]Slot 3</b> : [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
+<h3>It costs four hundred thousand dollars to <br>run this <b>Machine Guns Only</b> Game.</h3><br><b>[ ]Slot 1</b> : [MACHINE GUN 2H]<br><b>[ ]Slot 2</b> : [MACHINE GUN 2H]<br><b>[ ]Slot 3</b> : [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
 
 <h3>Don't gotta aim if you can fill the air with bullets, its <b>Machine Pistol/SMG</b> Time!</h3><br><b>[ ]Slot 1</b> : [[[MACHINE PISTOL 1H] and [MACHINE PISTOL 1H]|[SMG 2H]]]<br><b>[ ]Slot 2</b> : [[[MACHINE PISTOL 1H] and [MACHINE PISTOL 1H]|[SMG 2H]]]<br><b>[ ]Slot 3</b> : [MACHINE PISTOL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
 
@@ -365,7 +365,7 @@ $>Half Wiggle
 
 <h3>This is your <b>Rifle Only</b> Game. There are many like it,<br> but this one is yours!</h3><br><b>[ ]Two Handed</b> : [RIFLES 2H] | [RIFLES 2H]<br><b>[ ]Allowed Sidearms</b> : [ALL 1H] | [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
 
-<h3>It costs four hundred thousand dollars to run this <b>Machine Guns Only</b> Game.</h3><br><b>[ ]Two Handed</b> : [MACHINE GUN 2H] | [MACHINE GUN 2H]<br><b>[ ]Allowed Sidearms</b> : [ALL 1H] | [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
+<h3>It costs four hundred thousand dollars to <br>run this <b>Machine Guns Only</b> Game.</h3><br><b>[ ]Two Handed</b> : [MACHINE GUN 2H] | [MACHINE GUN 2H]<br><b>[ ]Allowed Sidearms</b> : [ALL 1H] | [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
 
 <h3>Don't gotta aim if you can fill the air with bullets, its <b>Machine Pistol/SMG</b> Time!</h3><br><b>[ ]One Handed</b> : [MACHINE PISTOL 1H] | [MACHINE PISTOL 1H]<br><b>[ ]Two Handed</b> : [SMG 2H] | [SMG 2H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
 
