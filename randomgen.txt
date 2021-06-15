@@ -19,7 +19,7 @@ Automatic Crossbow
 
 $OLD 1H
 Flintlock
-Revolver
+Normal Revolver
 Hand Cannon
 Sabre
 
@@ -114,7 +114,7 @@ Flintlock
 G18c
 Luger-P08
 Normal M1911
-Revolver
+Normal Revolver
 Normal Taser
 Auto Revolver
 Hand Cannon
