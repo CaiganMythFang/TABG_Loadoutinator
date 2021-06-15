@@ -35,10 +35,10 @@ M1911
 
 $World War 2H
 Browning M2
-Garand
+Normal Garand
 Kar98K
 M1918-BAR
-M1a1 Thompson
+Normal M1a1 Thompson
 MG-42
 MP-40
 MP-44
@@ -51,25 +51,25 @@ G18c
 The Arnold
 
 $Modern 2H
-AA-12
+Normal AA-12
 AK-47
 AK-74U
 AUG
 M14
-M16
+Normal M16
 MGL
 Mossberg-500
 MP5-K
 P-90
 Rocket Launcher
 SCAR-H
-Taser
+Normal Taser
 Tec-9
 UMP-45
 Vector
 VSS
 Ballistic Shield
-Minigun
+Normal Minigun
 
 $Future 1H
 Auto Revolver
@@ -113,9 +113,9 @@ Desert Eagle
 Flintlock
 G18c
 Luger-P08
-M1911
+Normal M1911
 Revolver
-Taser
+Normal Taser
 Auto Revolver
 Hand Cannon
 
@@ -130,7 +130,7 @@ P-90
 PPSH-41
 UMP-45
 Vector
-M1a1 Thompson
+Normal M1a1 Thompson
 
 $Bows 1H
 Crossbow Pistol
@@ -146,7 +146,7 @@ Double Barrel Shotgun
 The Arnold
 
 $Shotguns 2H
-AA-12
+Normal AA-12
 Blunderbuss
 Mossberg-500
 
@@ -154,9 +154,9 @@ $Rifles 2H
 AK-47
 AK-74U
 AUG
-Garand
+Normal Garand
 M14
-M16
+Normal M16
 MP-44
 Musket
 SCAR-H
@@ -166,7 +166,7 @@ S7
 
 $Sniper Rifles 2H
 Normal AWP
-Barrett
+Normal Barrett
 BEAM-Sniper
 Double Shot
 Kar98K
@@ -176,7 +176,7 @@ $Machine Gun 2H
 Browning M2
 M1918-BAR
 MG-42
-Minigun
+Normal Minigun
 M8
 
 $Explosives 2H
