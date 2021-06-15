@@ -26,7 +26,7 @@ Sabre
 $OLD 2H
 Blunderbuss
 Musket
-Winchester
+Winchester-Model1886
 
 $World War 1H
 Sawed-Off Shotgun
@@ -160,7 +160,7 @@ Normal M16
 MP-44
 Musket
 SCAR-H
-Winchester
+Winchester-Model1886
 H1
 S7
 
