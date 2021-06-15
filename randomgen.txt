@@ -13,7 +13,7 @@ Crossbow Pistol
 $Medieval 2H
 Katana
 Jarl Axe
-Crossbow
+Basic Crossbow
 Automatic Crossbow
 [Balloon Crossbow|Fireworks Crossbow]
 
@@ -137,7 +137,7 @@ Crossbow Pistol
 Grappling Hook
 
 $Bows 2H
-Crossbow
+Basic Crossbow
 Automatic Crossbow
 Gaussbow
 
@@ -165,7 +165,7 @@ H1
 S7
 
 $Sniper Rifles 2H
-AWP
+Normal AWP
 Barrett
 BEAM-Sniper
 Double Shot
@@ -203,7 +203,7 @@ Small
 Speed
 Spray
 Storm Call
-Storm
+Normal Storm
 Tactical Maneuver
 The Hunt
 Vampire
@@ -363,7 +363,7 @@ $>Half Wiggle
 
 <h3>Cock the string and nock a bolt, its <b>Crossbows Only</b> Time!</h3><br><br><b>One Handed</b>: [Bows 1H] and [Bows 1H]<br><b>Two Handed</b>: [Bows 2H] and [Bows 2H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
 
-<h3>This is your <b>Rifle Only</b> Game. There are many like it, but this one is yours!</h3><br><br><b>One Handed</b>: [Rifles 1H] and [Rifles 1H]<br><b>Two Handed</b>: [Rifles 2H] and [Rifles 2H]<br><b>Allowed Sidearms</b>: [All 1H] or [All 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
+<h3>This is your <b>Rifle Only</b> Game. There are many like it, but this one is yours!</h3><br><br><b>Two Handed</b>: [Rifles 2H] and [Rifles 2H]<br><b>Allowed Sidearms</b>: [All 1H] or [All 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
 
 <h3>It costs four hundred thousand dollars to run this <b>Machine Guns Only</b> Game.</h3><br><br><b>Two Handed</b>: [Machine Gun 2H] and [Machine Gun 2H]<br><b>Allowed Sidearms</b>: [All 1H] or [All 1H]<br><b>Blessings</b>: [Blessing], [Blessing], [Blessing]
 
