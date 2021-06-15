@@ -24,7 +24,7 @@ Hand Cannon
 Sabre
 
 $OLD 2H
-Blunderbuss
+Normal Blunderbuss
 Musket
 Winchester-Model1886
 
@@ -38,7 +38,7 @@ Browning-M2
 Normal Garand
 Kar98K
 M1918-BAR
-Normal M1a1 Thompson
+Normal M1a1-Thompson
 MG-42
 MP-40
 MP-44
@@ -130,7 +130,7 @@ P90
 PPSH-41
 UMP-45
 Vector
-Normal M1a1 Thompson
+Normal M1a1-Thompson
 
 $BOWS 1H
 Crossbow Pistol
@@ -147,7 +147,7 @@ The Arnold
 
 $SHOTGUNS 2H
 Normal AA-12
-Blunderbuss
+Normal Blunderbuss
 Mossberg-500
 
 $RIFLES 2H
@@ -200,7 +200,7 @@ Regeneration
 Relax
 Shield Blessing
 Small
-Speed
+Speed Blessing
 Spray
 Storm Call
 Normal Storm
