@@ -318,7 +318,7 @@ $>Full Wiggle
 
 <h3>Will you be long? Yes, its a <b>Two Handed Only</b> Game!</h3><br><br><b>Slot 1</b>: [ALL 2H]<br><b>Slot 2</b>: [ALL 2H]<br><b>Slot 3</b>: [ALL 1H]<br><b>BLESSINGs</b>: [BLESSING], [BLESSING], [BLESSING]<br><br><b>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 2H], [Special 2H]
 
-<h3>Throw em a curveball! It's a <b>Grenade Only</b> Game!</h3><br><br><b>BLESSINGs</b>: [BLESSING], [BLESSING], [BLESSING]<br>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] Airstrike BLESSING
+<h3>Throw em a curveball! It's a <b>Grenade Only</b> Game!</h3><br><br><b>BLESSINGs</b>: [BLESSING], [BLESSING], [BLESSING]<br>ULTIMATE WEAPONS</b>: (if found, you must use at least one!)<br>[ ] [ ] [ ] AIRSTRIKE
 
 <h3>This. Is. My. Boomstick! <b>Shotguns Only</b> Time!</h3><br><br><b>Slot 1</b>: [[[SHOTGUNS 1H] and [SHOTGUNS 1H]|[SHOTGUNS 2H]]]<br><b>Slot 2</b>: [[[SHOTGUNS 1H] and [SHOTGUNS 1H]|[SHOTGUNS 2H]]]<br><b>Slot 3</b>: [SHOTGUNS 1H]<br><b>BLESSINGs</b>: [BLESSING], [BLESSING], [BLESSING]
 
