@@ -230,6 +230,7 @@ Hardballer
 [Liberating AA-12|Liberating Barrett|Liberating Garand|Liberating M16|Liberating m1911|Liberating M1a1-Thompson|Liberating Minigun]
 [Liberating AA-12|Liberating Barrett|Liberating Garand|Liberating M16|Liberating m1911|Liberating M1a1-Thompson|Liberating Minigun]
 Money Stack
+Money Maker Mac
 Real Gun
 [Spells]
 [Spells]
