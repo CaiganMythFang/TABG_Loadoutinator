@@ -305,37 +305,37 @@ $>Full Wiggle
 
 <h3>Time for a <b>Nuzlocke</b> Game!</h3><br>The first weapons you see you MUST use the whole game!
 
-<h3>Time for a normal <b>Loadoutinator</b> Game!</h3><br><b>[ ]Slot 1</b> : [[[ALL 1H] and [ALL 1H]|[ALL 2H]]]<br><b>[ ]Slot 2</b> : [[[ALL 1H] and [ALL 1H]|[ALL 2H]]]<br><b>[ ]Slot 3</b> : [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]<br><br><b>[ ]ULTIMATE WEAPONS</b> : (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 1H], [Special 2H]
+<h3>Time for a normal <b>Loadoutinator</b> Game!</h3><br><b>[ ]Slot 1</b> : [[[ALL 1H] and [ALL 1H]|[ALL 2H]]]<br><b>[ ]Slot 2</b> : [[[ALL 1H] and [ALL 1H]|[ALL 2H]]]<br><b>[ ]Slot 3</b> : [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]<br><br><b>[ ]ULTIMATE WEAPONS</b> : (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 1H], [Special 2H] {25%}
 
-<h3>Yar-haw! It's time for a <b>Pirates n' Cowboys</b> Game!</h3><br><b>[ ]Slot 1</b> : [[[OLD 1H] and [OLD 1H]|[OLD 2H]]]<br><b>[ ]Slot 2</b> : [[[OLD 1H] and [OLD 1H]|[OLD 2H]]]<br><b>[ ]Slot 3</b> : [OLD 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
+<h3>Yar-haw! It's time for a <b>Pirates n' Cowboys</b> Game!</h3><br><b>[ ]Slot 1</b> : [[[OLD 1H] and [OLD 1H]|[OLD 2H]]]<br><b>[ ]Slot 2</b> : [[[OLD 1H] and [OLD 1H]|[OLD 2H]]]<br><b>[ ]Slot 3</b> : [OLD 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING] {25%}
 
-<h3>Lock and Load! It's time for a <b>Modern Tech</b> Game!</h3><br><b>[ ]Slot 1</b> : [[[MODERN TECH 1H] and [MODERN TECH 1H]|[MODERN TECH 2H]]]<br><b>[ ]Slot 2</b> : [[[MODERN TECH 1H] and [MODERN TECH 1H]|[MODERN TECH 2H]]]<br><b>[ ]Slot 3</b> : [MODERN TECH 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
+<h3>Lock and Load! It's time for a <b>Modern Tech</b> Game!</h3><br><b>[ ]Slot 1</b> : [[[MODERN TECH 1H] and [MODERN TECH 1H]|[MODERN TECH 2H]]]<br><b>[ ]Slot 2</b> : [[[MODERN TECH 1H] and [MODERN TECH 1H]|[MODERN TECH 2H]]]<br><b>[ ]Slot 3</b> : [MODERN TECH 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING] {25%}
 
-<h3>Load your quiver, its a <b>Medieval</b> Game!</h3><br><b>[ ]Slot 1</b> : [[[MEDIEVAL 1H] and [MEDIEVAL 1H]|[MEDIEVAL 2H]]]<br><b>[ ]Slot 2</b> : [[[MEDIEVAL 1H] and [MEDIEVAL 1H]|[MEDIEVAL @H]]]<br><b>[ ]Slot 3</b> : [MEDIEVAL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
+<h3>Load your quiver, its a <b>Medieval</b> Game!</h3><br><b>[ ]Slot 1</b> : [[[MEDIEVAL 1H] and [MEDIEVAL 1H]|[MEDIEVAL 2H]]]<br><b>[ ]Slot 2</b> : [[[MEDIEVAL 1H] and [MEDIEVAL 1H]|[MEDIEVAL @H]]]<br><b>[ ]Slot 3</b> : [MEDIEVAL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING] {25%}
 
-<h3>Sharpen your blades, we're going <b>Melee Only</b>!</h3><br><b>[ ]Slot 1</b> : [[[MELEE 1H] and [MELEE 1H]|[MELEE 1H]|[MELEE 2H]]]<br><b>[ ]Slot 2</b> : [[[MELEE 1H] and [MELEE 1H]|[MELEE 1H]|[MELEE 2H]]]<br><b>[ ]Slot 3</b> : [MELEE 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
+<h3>Sharpen your blades, we're going <b>Melee Only</b>!</h3><br><b>[ ]Slot 1</b> : [[[MELEE 1H] and [MELEE 1H]|[MELEE 1H]|[MELEE 2H]]]<br><b>[ ]Slot 2</b> : [[[MELEE 1H] and [MELEE 1H]|[MELEE 1H]|[MELEE 2H]]]<br><b>[ ]Slot 3</b> : [MELEE 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING] {25%}
 
-<h3>Release the doves, its a <b>Dualies Only</b> Game!</h3><br><b>[ ]Slot 1</b> : Two [ALL 1H]'s<br><b>[ ]Slot 2</b> : Two [ALL 1H]'s<br><b>[ ]Slot 3</b> : [MELEE 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]<br><br><b>[ ]ULTIMATE WEAPONS</b> : (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 1H], [Special 1H]
+<h3>Release the doves, its a <b>Dualies Only</b> Game!</h3><br><b>[ ]Slot 1</b> : Two [ALL 1H]'s<br><b>[ ]Slot 2</b> : Two [ALL 1H]'s<br><b>[ ]Slot 3</b> : [MELEE 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]<br><br><b>[ ]ULTIMATE WEAPONS</b> : (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 1H], [Special 1H] {25%}
 
-<h3>Will you be long? Yes, its a <b>Two-Handed Only</b> Game!</h3><br><b>[ ]Slot 1</b> : [ALL 2H]<br><b>[ ]Slot 2</b> : [ALL 2H]<br><b>[ ]Slot 3</b> : [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]<br><br><b>[ ]ULTIMATE WEAPONS</b> : (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 2H], [Special 2H]
+<h3>Will you be long? Yes, its a <b>Two-Handed Only</b> Game!</h3><br><b>[ ]Slot 1</b> : [ALL 2H]<br><b>[ ]Slot 2</b> : [ALL 2H]<br><b>[ ]Slot 3</b> : [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]<br><br><b>[ ]ULTIMATE WEAPONS</b> : (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 2H], [Special 2H] {25%}
 
-<h3>Throw em a curveball! It's a <b>Grenade Only</b> Game!</h3><br><b> BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]<br>ULTIMATE WEAPONS</b> : (if found, you must use at least one!)<br>[ ] [ ] [ ] AIRSTRIKE
+<h3>Throw em a curveball! It's a <b>Grenade Only</b> Game!</h3><br><b> BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]<br>ULTIMATE WEAPONS</b> : (if found, you must use at least one!)<br>[ ] [ ] [ ] AIRSTRIKE {25%}
 
-<h3>This. Is. My. Boomstick! <b>Shotguns Only</b> Time!</h3><br><b>[ ]Slot 1</b> : [[[SHOTGUNS 1H] and [SHOTGUNS 1H]|[SHOTGUNS 2H]]]<br><b>[ ]Slot 2</b> : [[[SHOTGUNS 1H] and [SHOTGUNS 1H]|[SHOTGUNS 2H]]]<br><b>[ ]Slot 3</b> : [SHOTGUNS 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
+<h3>This. Is. My. Boomstick! <b>Shotguns Only</b> Time!</h3><br><b>[ ]Slot 1</b> : [[[SHOTGUNS 1H] and [SHOTGUNS 1H]|[SHOTGUNS 2H]]]<br><b>[ ]Slot 2</b> : [[[SHOTGUNS 1H] and [SHOTGUNS 1H]|[SHOTGUNS 2H]]]<br><b>[ ]Slot 3</b> : [SHOTGUNS 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING] {25%}
 
-<h3>Make sure your brace of pistols is loaded, its <br><b>Handguns Only</b> Time!</h3><br><b>[ ]Slot 1</b> : [HANDGUNS 1H] and [HANDGUNS 1H]<br><b>[ ]Slot 2</b> : [HANDGUNS 1H] and [HANDGUNS 1H]<br><b>[ ]Slot 3</b> : [HANDGUNS 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
+<h3>Make sure your brace of pistols is loaded, its <br><b>Handguns Only</b> Time!</h3><br><b>[ ]Slot 1</b> : [HANDGUNS 1H] and [HANDGUNS 1H]<br><b>[ ]Slot 2</b> : [HANDGUNS 1H] and [HANDGUNS 1H]<br><b>[ ]Slot 3</b> : [HANDGUNS 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING] {25%}
 
-<h3>Cock the string and nock a bolt, its <b>Crossbows</b><br><b>Only</b> Time!</h3><br><b>[ ]Slot 1</b> : [[[BOWS 1H] and [BOWS 1H]|[BOWS 2H]]]<br><b>[ ]Slot 2</b> : [[[BOWS 1H] and [BOWS 1H]|[BOWS 2H]]]<br><b>[ ]Slot 3</b> : [BOWS 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
+<h3>Cock the string and nock a bolt, its <b>Crossbows</b><br><b>Only</b> Time!</h3><br><b>[ ]Slot 1</b> : [[[BOWS 1H] and [BOWS 1H]|[BOWS 2H]]]<br><b>[ ]Slot 2</b> : [[[BOWS 1H] and [BOWS 1H]|[BOWS 2H]]]<br><b>[ ]Slot 3</b> : [BOWS 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING] {25%}
 
-<h3>This is your <b>Rifle Only</b> Game. There are many like it,<br> but this one is yours!</h3><br><b>[ ]Slot 1</b> : [RIFLES 2H]<br><b>[ ]Slot 2</b> : [RIFLES 2H]<br><b>[ ]Slot 3</b> : [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
+<h3>This is your <b>Rifle Only</b> Game. There are many like it,<br> but this one is yours!</h3><br><b>[ ]Slot 1</b> : [RIFLES 2H]<br><b>[ ]Slot 2</b> : [RIFLES 2H]<br><b>[ ]Slot 3</b> : [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING] {25%}
 
-<h3>It costs four hundred thousand dollars to <br>run this <b>Machine Guns Only</b> Game.</h3><br><b>[ ]Slot 1</b> : [MACHINE GUN 2H]<br><b>[ ]Slot 2</b> : [MACHINE GUN 2H]<br><b>[ ]Slot 3</b> : [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
+<h3>It costs four hundred thousand dollars to <br>run this <b>Machine Guns Only</b> Game.</h3><br><b>[ ]Slot 1</b> : [MACHINE GUN 2H]<br><b>[ ]Slot 2</b> : [MACHINE GUN 2H]<br><b>[ ]Slot 3</b> : [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING] {25%}
 
-<h3>Don't gotta aim if you can fill the air with bullets, <br>its <b>Machine Pistol/SMG</b> Time!</h3><br><b>[ ]Slot 1</b> : [[[MACHINE PISTOL 1H] and [MACHINE PISTOL 1H]|[SMG 2H]]]<br><b>[ ]Slot 2</b> : [[[MACHINE PISTOL 1H] and [MACHINE PISTOL 1H]|[SMG 2H]]]<br><b>[ ]Slot 3</b> : [MACHINE PISTOL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
+<h3>Don't gotta aim if you can fill the air with bullets, <br>its <b>Machine Pistol/SMG</b> Time!</h3><br><b>[ ]Slot 1</b> : [[[MACHINE PISTOL 1H] and [MACHINE PISTOL 1H]|[SMG 2H]]]<br><b>[ ]Slot 2</b> : [[[MACHINE PISTOL 1H] and [MACHINE PISTOL 1H]|[SMG 2H]]]<br><b>[ ]Slot 3</b> : [MACHINE PISTOL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING] {25%}
 
-<h3>Boom! Boom! Boom! <b>Explosives Only</b> Game! Boom!</h3><br><b>[ ]Slot 1</b> : [EXPLOSIVES 2H]<br><b>[ ]Slot 2</b> : [EXPLOSIVES 2H]<br><b>[ ]Slot 3</b> : [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
+<h3>Boom! Boom! Boom! <b>Explosives Only</b> Game! Boom!</h3><br><b>[ ]Slot 1</b> : [EXPLOSIVES 2H]<br><b>[ ]Slot 2</b> : [EXPLOSIVES 2H]<br><b>[ ]Slot 3</b> : [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING] {25%}
 
-<h3>Aim for the head, its a <b>Snipers Only</b> Game! Boom, Headshot!</h3><br><b>[ ]Slot 1</b> : [SNIPER RIFLES 2H]<br><b>[ ]Slot 2</b> : [SNIPER RIFLES 2H]<br><b>[ ]Slot 3</b> : [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]
+<h3>Aim for the head, its a <b>Snipers Only</b> Game! Boom, Headshot!</h3><br><b>[ ]Slot 1</b> : [SNIPER RIFLES 2H]<br><b>[ ]Slot 2</b> : [SNIPER RIFLES 2H]<br><b>[ ]Slot 3</b> : [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING] {25%}
 
 $>Half Wiggle
 <h3>This is a bog standard <b>Normal</b> Game!</h3><br>Play as you normally would!
@@ -373,3 +373,7 @@ $>Half Wiggle
 <h3>Boom! Boom! Boom! <b>Explosives Only</b> Game! Boom!</h3><br><b>[ ]Two Handed</b> : [EXPLOSIVES 2H] | [EXPLOSIVES 2H]<br><b>[ ]Allowed Sidearms</b> : [ALL 1H] | [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING] {25%}
 
 <h3>Aim for the head, its a <b>Snipers Only</b> Game! Boom, Headshot!</h3><br><b>[ ]Two Handed</b> : [SNIPER RIFLES 2H] | [SNIPER RIFLES 2H]<br><b>[ ]Allowed Sidearms</b> : [ALL 1H] | [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING] {25%}
+
+$>Extreme Wiggle
+[Half Wiggle]
+[Full Wiggle] {25%}
