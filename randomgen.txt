@@ -305,6 +305,10 @@ $>Full Wiggle
 
 <h3>Time for a <b>Nuzlocke</b> Game!</h3><br>The first weapons you see you MUST use the whole game!
 
+<h3>This is a bog standard <b>Normal</b> Game! Play as you normally would!</h3>
+
+<h3>Time for a <b>Nuzlocke</b> Game!</h3><br>The first weapons you see you MUST use the whole game!
+
 <h3>Time for a normal <b>Loadoutinator</b> Game!</h3><br><b>[ ]Slot 1</b> : [[[ALL 1H] and [ALL 1H]|[ALL 2H]]]<br><b>[ ]Slot 2</b> : [[[ALL 1H] and [ALL 1H]|[ALL 2H]]]<br><b>[ ]Slot 3</b> : [ALL 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING]<br><br><b>[ ]ULTIMATE WEAPONS</b> : (if found, you must use at least one!)<br>[ ] [ ] [ ] [Special 1H], [Special 2H] {25%}
 
 <h3>Yar-haw! It's time for a <b>Pirates n' Cowboys</b> Game!</h3><br><b>[ ]Slot 1</b> : [[[OLD 1H] and [OLD 1H]|[OLD 2H]]]<br><b>[ ]Slot 2</b> : [[[OLD 1H] and [OLD 1H]|[OLD 2H]]]<br><b>[ ]Slot 3</b> : [OLD 1H]<br><b>[ ]BLESSINGS</b> : [BLESSING] | [BLESSING] | [BLESSING] {25%}
@@ -339,6 +343,14 @@ $>Full Wiggle
 
 $>Half Wiggle
 <h3>This is a bog standard <b>Normal</b> Game!</h3><br>Play as you normally would!
+
+<h3>Time for a <b>Nuzlocke</b> Game!</h3><br>The first weapons you see you MUST use the whole game!
+
+<h3>This is a bog standard <b>Normal</b> Game! Play as you normally would!</h3>
+
+<h3>Time for a <b>Nuzlocke</b> Game!</h3><br>The first weapons you see you MUST use the whole game!
+
+<h3>This is a bog standard <b>Normal</b> Game! Play as you normally would!</h3>
 
 <h3>Time for a <b>Nuzlocke</b> Game!</h3><br>The first weapons you see you MUST use the whole game!
 
